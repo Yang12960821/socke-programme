@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.247.132'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  PoolSocket.vcxproj -> C:\Users\Kevin\Desktop\PoolSocket\PoolSocket\bin\x64\Debug\PoolSocket.out

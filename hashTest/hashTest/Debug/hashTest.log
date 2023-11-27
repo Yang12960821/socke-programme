@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/9/23 16:20:37。
+     1>项目“C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day04\代码\hashTest\hashTest\hashTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\hashTest.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day04\代码\hashTest\Debug\hashTest.exe" /INCREMENTAL /NOLOGO libssl.lib libcrypto.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day04\代码\hashTest\Debug\hashTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day04\代码\hashTest\Debug\hashTest.lib" /MACHINE:X86 Debug\main.obj
+         hashTest.vcxproj -> C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day04\代码\hashTest\Debug\hashTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\hashTest.tlog\unsuccessfulbuild”。
+         正在对“Debug\hashTest.tlog\hashTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day04\代码\hashTest\hashTest\hashTest.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:10.46

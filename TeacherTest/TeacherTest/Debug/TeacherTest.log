@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/9/22 16:08:07。
+     1>项目“C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day03\代码\TeacherTest\TeacherTest\TeacherTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\TeacherTest.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:prompt teacher.c
+         teacher.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day03\代码\TeacherTest\Debug\TeacherTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day03\代码\TeacherTest\Debug\TeacherTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day03\代码\TeacherTest\Debug\TeacherTest.lib" /MACHINE:X86 Debug\itcastderlog.obj
+         Debug\itcast_asn1_der.obj
+         Debug\main.obj
+         Debug\teacher.obj
+         TeacherTest.vcxproj -> C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day03\代码\TeacherTest\Debug\TeacherTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TeacherTest.tlog\unsuccessfulbuild”。
+         正在对“Debug\TeacherTest.tlog\TeacherTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\day03\代码\TeacherTest\TeacherTest\TeacherTest.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:11.81

@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/9/18 20:23:18。
+     1>项目“C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\code\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Project1.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\code\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO libssl.lib libcrypto.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\code\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\code\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\main.obj
+         Project1.vcxproj -> C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\code\Project1\Debug\Project1.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Project1.tlog\unsuccessfulbuild”。
+         正在对“Debug\Project1.tlog\Project1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\飞秋共享目录1\项目1\code\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:03.21

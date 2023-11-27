@@ -1,0 +1,1 @@
+g++ -o "/root/projects/PoolSocket/bin/x64/Debug/PoolSocket.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/PoolSocket/obj/x64/Debug/main.o /root/projects/PoolSocket/obj/x64/Debug/PoolSocket.o /root/projects/PoolSocket/obj/x64/Debug/TcpSocket.o
